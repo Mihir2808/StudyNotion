@@ -7,7 +7,8 @@ Full Stack EdTech platform using MERN stack
 
 🚀 step-by-step instructions
 Clone the repository to your local machine.
-git clone https://github.com/Mihir2808/StudyNotion.git
+
+-> git clone [https://github.com/Mihir2808/StudyNotion.git](https://github.com/Mihir2808/StudyNotion.git)
 
 dont forget to make .env file 
 .env file in server {
